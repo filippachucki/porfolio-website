@@ -5,8 +5,8 @@ import './header.css'
 function HeaderSocials() {
   return (
     <div className='header__socials'>
-        <a href='https://github.com/filippachucki' taget='_blank'><BsLinkedin size={35}/></a> 
-        <a href='https://www.linkedin.com/in/filip-pachucki-97a4101b5/' taget='_blank'><BsGithub size={35}/></a>    
+        <a href='https://github.com/filippachucki' target="_blank" rel="noopener noreferrer"><BsLinkedin size={35}/></a> 
+        <a href='https://www.linkedin.com/in/filip-pachucki-97a4101b5/' target="_blank" rel="noopener noreferrer"><BsGithub size={35}/></a>    
     </div>
   )
 }

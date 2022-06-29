@@ -43,6 +43,7 @@
 @media screen and (max-width:1024px) {
     .experience__container {
         grid-template-columns: 1fr;
+        gap: 1rem;
     }
 
     .experience__container > div {
@@ -59,6 +60,7 @@
 /* =============== MEDIA QUERIES (SMALL DEVICES) ========= */
 @media screen and (max-width:600px) {
     .experience__container {
+        grid-template-columns: 1fr;
         gap: 1rem;
         margin-left: 0rem;
     }
