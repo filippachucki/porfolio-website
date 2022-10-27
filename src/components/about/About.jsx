@@ -35,8 +35,8 @@ const About = () => {
             </article>
             <article className='about__card'>
               <GiBrain className='about__icon'/>
-              <h5>Open Mind</h5>
-              <small>Intrested in learning in set of skills</small>
+              <h5>Flexible</h5>
+              <small>Capability of programming in multiple languages</small>
             </article>
           </div>
           <p>
