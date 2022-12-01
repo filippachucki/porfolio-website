@@ -1,6 +1,8 @@
 # Link to the website: https://portfolio-website-f4cab.web.app
 
-# Portfolio website showcasing the project I've worked on recetnyl
+# Portfolio website showcasing the project I've worked on recently. 
+
+# Website was created with HTML, CSS, JavaScript, React
 
 # How to run the project
 
